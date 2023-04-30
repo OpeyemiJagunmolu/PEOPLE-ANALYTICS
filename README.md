@@ -25,5 +25,5 @@ More workforce was recruited in the year 2019 compared to other years.
 
 [people_analytics_start.csv](https://github.com/OpeyemiJagunmolu/PEOPLE-ANALYTICS/files/11069927/people_analytics_start.csv)
 
-_Disclaimer: This dataset was provided by Pomerol Partners as a dummy for DATADNA monthly challenge._
+_Disclaimer: This dataset was provided by Data in Motion as a dummy for Data Viz challenge._
 
